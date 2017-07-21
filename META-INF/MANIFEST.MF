@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ttclive2017
+Bundle-SymbolicName: org.eclipse.epsilon.examples.ttclive2017
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.epsilon.etl.engine,
+ org.eclipse.epsilon.emc.emf,
+ org.eclipse.epsilon.eol.engine
